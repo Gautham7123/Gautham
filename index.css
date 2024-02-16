@@ -1,0 +1,7 @@
+.gow{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.gow img{
+    width: 150px;
+}
